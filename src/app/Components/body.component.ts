@@ -1,7 +1,7 @@
 /**
  * Created by jh0n4 on 11/5/17.
  */
-import {Component} from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   moduleId: module.id,
@@ -9,8 +9,8 @@ import {Component} from '@angular/core';
   templateUrl: 'body.component.html',
 })
 
-export class BodyComponent{
-  mostrar:boolean = true;
+export class BodyComponent {
+  mostrar: boolean = true;
   nombre: String = 'Jhonatan';
   materia: String = 'Topicos Especiales';
   objetivo: String = 'Aprender Ionic2';

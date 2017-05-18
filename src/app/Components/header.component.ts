@@ -1,7 +1,7 @@
 /**
  * Created by jh0n4 on 11/5/17.
  */
-import {Component} from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   moduleId: module.id,
